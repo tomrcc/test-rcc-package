@@ -2,10 +2,10 @@
 
 npx @bookshop/generate
 
-npx rosey-cloudcannon-connector tag --source dist
-npx rosey generate --source dist
+npx rosey-cloudcannon-connector tag --source _site
+npx rosey generate --source _site
 npx rosey-cloudcannon-connector generate
 
 echo "Translating site with Rosey"
-mv ./dist ./untranslated_site                  
-npx rosey build --source untranslated_site --dest dist --default-language-at-root
+mv ./_site ./untranslated_site                  
+npx rosey build --source untranslated_site --dest _site --default-language-at-root
