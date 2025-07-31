@@ -1,18 +1,17 @@
 _inputs:
   $:
     type: object
-    comment: >-
-      [booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
-      history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/translations/fr-FR/booking.yaml)
+    comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
+      history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/tr\
+      anslations/fr-FR/booking.yaml)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (fr-FR)
-          comment: >-
-            [booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
-            history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/translations/fr-FR/booking.yaml)
+          comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/booking.yaml)"
           inputs:
-            - a-hero-for-a-booking-form-page
             - a-simple-text-block-for-your-faqs
             - add-an-optional-button
             - an-icon-card-grid
@@ -27,148 +26,146 @@ _inputs:
             - skip-to-contents
             - tag-or-label-headline
         - heading: Already translated (fr-FR)
-          comment: >-
-            [booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
-            history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/translations/fr-FR/booking.yaml)
-          inputs: []
+          comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/booking.yaml)"
+          inputs:
+            - a-hero-for-a-booking-form-page
   a-hero-for-a-booking-form-page:
     label: A hero for a booking form page
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=A%20hero%20for%20a%20booking%20form%20page)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=A%20hero%20fo\
+      r%20a%20booking%20form%20page)"
     context: {}
   a-simple-text-block-for-your-faqs:
     label: A simple text block for your FAQs
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=A%20simple%20text%20block%20for%20your%20FAQs)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=A%20simple%20\
+      text%20block%20for%20your%20FAQs)"
     context: {}
   add-an-optional-button:
     label: Add an optional button
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Add%20an%20optional%20button)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Add%20an%20op\
+      tional%20button)"
     context: {}
   an-icon-card-grid:
     label: An icon card grid
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=An%20icon%20card%20grid)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=An%20icon%20c\
+      ard%20grid)"
     context: {}
   another-optional-button:
     label: Another optional button!
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Another%20optional%20button!)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Another%20opt\
+      ional%20button!)"
     context: {}
   bite-sized-information:
     label: Bite-sized information
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Bite%2Dsized%20information)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Bite%2Dsized%\
+      20information)"
     context: {}
   book-now:
     label: Book now
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Book%20now)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Book%20now)"
     context: {}
   booking-form:
     label: Booking form
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Booking%20form)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Booking%20for\
+      m)"
     context: {}
   eyebrow-heading:
     label: Eyebrow Heading
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Eyebrow%20Heading)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Eyebrow%20Hea\
+      ding)"
     context: {}
   heading:
     label: Heading
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Heading)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Heading)"
     context: {}
   icon-card:
     label: icon card
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=icon%20card)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=icon%20card)"
     context: {}
   large-image-or-video-block:
     label: Large image or video block
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Large%20image%20or%20video%20block)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Large%20image\
+      %20or%20video%20block)"
     context: {}
   skip-to-contents:
     label: Skip to contents
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=Skip%20to%20contents)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Skip%20to%20c\
+      ontents)"
     context: {}
   tag-or-label-headline:
     label: tag or label headline
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://classy-sage.cloudvent.net/booking/#:~:text=tag%20or%20label%20headline)
+    comment: "[See in
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=tag%20or%20la\
+      bel%20headline)"
     context: {}
 urlTranslation: booking/index.html
 a-hero-for-a-booking-form-page: Test this works BONJOUR
-a-simple-text-block-for-your-faqs: ''
-add-an-optional-button: ''
-an-icon-card-grid: ''
-another-optional-button: ''
-bite-sized-information: ''
-book-now: ''
-booking-form: ''
-eyebrow-heading: ''
-heading: ''
-icon-card: ''
-large-image-or-video-block: ''
-skip-to-contents: ''
-tag-or-label-headline: ''
+a-simple-text-block-for-your-faqs: ""
+add-an-optional-button: ""
+an-icon-card-grid: ""
+another-optional-button: ""
+bite-sized-information: ""
+book-now: ""
+booking-form: ""
+eyebrow-heading: ""
+heading: ""
+icon-card: ""
+large-image-or-video-block: ""
+skip-to-contents: ""
+tag-or-label-headline: ""
