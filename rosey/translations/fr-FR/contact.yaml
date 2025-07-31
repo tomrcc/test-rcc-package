@@ -11,6 +11,11 @@ _inputs:
           comment: "[contact/](https://classy-sage.cloudvent.net/contact/)  //  [Git
             history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
             sey/translations/fr-FR/contact.yaml)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[contact/](https://classy-sage.cloudvent.net/contact/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/contact.yaml)"
           inputs:
             - a-contact-block
             - an-image-card-grid
@@ -20,11 +25,6 @@ _inputs:
             - primary-heading
             - skip-to-contents
             - submit
-        - heading: Already translated (fr-FR)
-          comment: "[contact/](https://classy-sage.cloudvent.net/contact/)  //  [Git
-            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
-            sey/translations/fr-FR/contact.yaml)"
-          inputs: []
   a-contact-block:
     label: A contact block
     hidden: false

@@ -11,7 +11,13 @@ _inputs:
           comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
             history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
             sey/translations/fr-FR/booking.yaml)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/booking.yaml)"
           inputs:
+            - a-hero-for-a-booking-form-page
             - a-simple-text-block-for-your-faqs
             - add-an-optional-button
             - an-icon-card-grid
@@ -25,12 +31,6 @@ _inputs:
             - large-image-or-video-block
             - skip-to-contents
             - tag-or-label-headline
-        - heading: Already translated (fr-FR)
-          comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
-            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
-            sey/translations/fr-FR/booking.yaml)"
-          inputs:
-            - a-hero-for-a-booking-form-page
   a-hero-for-a-booking-form-page:
     label: A hero for a booking form page
     hidden: false

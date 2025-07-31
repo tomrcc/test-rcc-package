@@ -13,16 +13,16 @@ _inputs:
             onditions/)  //  [Git
             history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
             sey/translations/fr-FR/terms-and-conditions.yaml)"
-          inputs:
-            - eyebrow-heading
-            - skip-to-contents
-            - terms-and-conditions
+          inputs: []
         - heading: Already translated (fr-FR)
           comment: "[terms-and-conditions/](https://classy-sage.cloudvent.net/terms-and-c\
             onditions/)  //  [Git
             history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
             sey/translations/fr-FR/terms-and-conditions.yaml)"
-          inputs: []
+          inputs:
+            - eyebrow-heading
+            - skip-to-contents
+            - terms-and-conditions
   eyebrow-heading:
     label: Eyebrow Heading
     hidden: false

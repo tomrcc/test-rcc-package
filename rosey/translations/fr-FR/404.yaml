@@ -20,15 +20,15 @@ _inputs:
           comment: "[404/](https://classy-sage.cloudvent.net/404/)  //  [Git
             history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
             sey/translations/fr-FR/404.yaml)"
-          inputs:
-            - "404"
-            - page-not-found
-            - skip-to-contents
+          inputs: []
         - heading: Already translated (fr-FR)
           comment: "[404/](https://classy-sage.cloudvent.net/404/)  //  [Git
             history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
             sey/translations/fr-FR/404.yaml)"
-          inputs: []
+          inputs:
+            - "404"
+            - page-not-found
+            - skip-to-contents
   page-not-found:
     label: Page Not Found
     hidden: false
