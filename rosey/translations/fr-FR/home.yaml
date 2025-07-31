@@ -7,8 +7,205 @@ _inputs:
       groups:
         - heading: Still to translate (fr-FR)
           comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
-          inputs: []
+          inputs:
+            - a-component-to-showcase-your-brand
+            - a-contact-block
+            - a-featured-icons-block
+            - a-simple-gallery
+            - a-small-business-template
+            - and-ldquo-their-customer-service-is-second-to-none-and-rdquo
+            - book-now
+            - empower-your-business-with-this-brilliant-template
+            - eyebrow-heading
+            - image-gallery
+            - let-your-features-shine
+            - list-your-services-or-products
+            - load-more
+            - our-services
+            - skip-to-contents
+            - tag-or-label-headline
+            - what-your-customers-say
         - heading: Already translated (fr-FR)
           comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
           inputs: []
+  a-component-to-showcase-your-brand:
+    label: A component to showcase your brand
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20comp\
+      onent%20to%20showcase%20your%20brand)"
+    context: {}
+  a-contact-block:
+    label: A contact block
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20cont\
+      act%20block)"
+    context: {}
+  a-featured-icons-block:
+    label: A featured icons block
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20feat\
+      ured%20icons%20block)"
+    context: {}
+  a-simple-gallery:
+    label: a simple gallery
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=a%20simp\
+      le%20gallery)"
+    context: {}
+  a-small-business-template:
+    label: A small business template
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20smal\
+      l%20business%20template)"
+    context: {}
+  and-ldquo-their-customer-service-is-second-to-none-and-rdquo:
+    label: “Their customer service is second to none....
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=%E2%80%9\
+      CTheir%20customer%20service%20is%20second%20to%20none.%E2%80%9D)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: |
+        “Their customer service is second to none.”
+  book-now:
+    label: Book now
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Book%20n\
+      ow)"
+    context: {}
+  empower-your-business-with-this-brilliant-template:
+    label: Empower your business with this brilliant ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Empower%\
+      20your%20business%20with%20this%20brilliant%20template)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: |
+        Empower your business with this brilliant template
+  eyebrow-heading:
+    label: Eyebrow Heading
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Eyebrow%\
+      20Heading)"
+    context: {}
+  image-gallery:
+    label: Image Gallery
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Image%20\
+      Gallery)"
+    context: {}
+  let-your-features-shine:
+    label: let your features shine
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=let%20yo\
+      ur%20features%20shine)"
+    context: {}
+  list-your-services-or-products:
+    label: List your services or products
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=List%20y\
+      our%20services%20or%20products)"
+    context: {}
+  load-more:
+    label: Load more
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Load%20m\
+      ore)"
+    context: {}
+  our-services:
+    label: Our services
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Our%20se\
+      rvices)"
+    context: {}
+  skip-to-contents:
+    label: Skip to contents
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Skip%20t\
+      o%20contents)"
+    context: {}
+  tag-or-label-headline:
+    label: tag or label headline
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=tag%20or\
+      %20label%20headline)"
+    context: {}
+  what-your-customers-say:
+    label: What your customers say
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/index.html#:~:text=What%20y\
+      our%20customers%20say)"
+    context: {}
 urlTranslation: index.html
+a-component-to-showcase-your-brand: ""
+a-contact-block: ""
+a-featured-icons-block: ""
+a-simple-gallery: ""
+a-small-business-template: ""
+and-ldquo-their-customer-service-is-second-to-none-and-rdquo: ""
+book-now: ""
+empower-your-business-with-this-brilliant-template: ""
+eyebrow-heading: ""
+image-gallery: ""
+let-your-features-shine: ""
+list-your-services-or-products: ""
+load-more: ""
+our-services: ""
+skip-to-contents: ""
+tag-or-label-headline: ""
+what-your-customers-say: ""

@@ -7,8 +7,95 @@ _inputs:
       groups:
         - heading: Still to translate (fr-FR)
           comment: "[contact/](https://adjective-noun.cloudvent.net/contact/)"
-          inputs: []
+          inputs:
+            - a-contact-block
+            - an-image-card-grid
+            - bite-sized-information
+            - contact-us
+            - eyebrow-heading
+            - primary-heading
+            - skip-to-contents
+            - submit
         - heading: Already translated (fr-FR)
           comment: "[contact/](https://adjective-noun.cloudvent.net/contact/)"
           inputs: []
+  a-contact-block:
+    label: A contact block
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=A%20contac\
+      t%20block)"
+    context: {}
+  an-image-card-grid:
+    label: An image card grid
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=An%20image\
+      %20card%20grid)"
+    context: {}
+  bite-sized-information:
+    label: Bite-sized information
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Bite%2Dsiz\
+      ed%20information)"
+    context: {}
+  contact-us:
+    label: Contact us
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Contact%20\
+      us)"
+    context: {}
+  eyebrow-heading:
+    label: Eyebrow Heading
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Eyebrow%20\
+      Heading)"
+    context: {}
+  primary-heading:
+    label: Primary Heading
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Primary%20\
+      Heading)"
+    context: {}
+  skip-to-contents:
+    label: Skip to contents
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Skip%20to%\
+      20contents)"
+    context: {}
+  submit:
+    label: Submit
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Submit)"
+    context: {}
 urlTranslation: contact/index.html
+a-contact-block: ""
+an-image-card-grid: ""
+bite-sized-information: ""
+contact-us: ""
+eyebrow-heading: ""
+primary-heading: ""
+skip-to-contents: ""
+submit: ""

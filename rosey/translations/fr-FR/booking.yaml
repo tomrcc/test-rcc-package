@@ -7,8 +7,161 @@ _inputs:
       groups:
         - heading: Still to translate (fr-FR)
           comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
-          inputs: []
+          inputs:
+            - a-hero-for-a-booking-form-page
+            - a-simple-text-block-for-your-faqs
+            - add-an-optional-button
+            - an-icon-card-grid
+            - another-optional-button
+            - bite-sized-information
+            - book-now
+            - booking-form
+            - eyebrow-heading
+            - heading
+            - icon-card
+            - large-image-or-video-block
+            - skip-to-contents
+            - tag-or-label-headline
         - heading: Already translated (fr-FR)
           comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
           inputs: []
+  a-hero-for-a-booking-form-page:
+    label: A hero for a booking form page
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=A%20hero%2\
+      0for%20a%20booking%20form%20page)"
+    context: {}
+  a-simple-text-block-for-your-faqs:
+    label: A simple text block for your FAQs
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=A%20simple\
+      %20text%20block%20for%20your%20FAQs)"
+    context: {}
+  add-an-optional-button:
+    label: Add an optional button
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Add%20an%2\
+      0optional%20button)"
+    context: {}
+  an-icon-card-grid:
+    label: An icon card grid
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=An%20icon%\
+      20card%20grid)"
+    context: {}
+  another-optional-button:
+    label: Another optional button!
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Another%20\
+      optional%20button!)"
+    context: {}
+  bite-sized-information:
+    label: Bite-sized information
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Bite%2Dsiz\
+      ed%20information)"
+    context: {}
+  book-now:
+    label: Book now
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Book%20now\
+      )"
+    context: {}
+  booking-form:
+    label: Booking form
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Booking%20\
+      form)"
+    context: {}
+  eyebrow-heading:
+    label: Eyebrow Heading
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Eyebrow%20\
+      Heading)"
+    context: {}
+  heading:
+    label: Heading
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Heading)"
+    context: {}
+  icon-card:
+    label: icon card
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=icon%20car\
+      d)"
+    context: {}
+  large-image-or-video-block:
+    label: Large image or video block
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Large%20im\
+      age%20or%20video%20block)"
+    context: {}
+  skip-to-contents:
+    label: Skip to contents
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Skip%20to%\
+      20contents)"
+    context: {}
+  tag-or-label-headline:
+    label: tag or label headline
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/booking/#:~:text=tag%20or%2\
+      0label%20headline)"
+    context: {}
 urlTranslation: booking/index.html
+a-hero-for-a-booking-form-page: ""
+a-simple-text-block-for-your-faqs: ""
+add-an-optional-button: ""
+an-icon-card-grid: ""
+another-optional-button: ""
+bite-sized-information: ""
+book-now: ""
+booking-form: ""
+eyebrow-heading: ""
+heading: ""
+icon-card: ""
+large-image-or-video-block: ""
+skip-to-contents: ""
+tag-or-label-headline: ""

@@ -9,9 +9,42 @@ _inputs:
         - heading: Still to translate (fr-FR)
           comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
             d-conditions/)"
-          inputs: []
+          inputs:
+            - eyebrow-heading
+            - skip-to-contents
+            - terms-and-conditions
         - heading: Already translated (fr-FR)
           comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
             d-conditions/)"
           inputs: []
+  eyebrow-heading:
+    label: Eyebrow Heading
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/terms-and-conditions/#:~:te\
+      xt=Eyebrow%20Heading)"
+    context: {}
+  skip-to-contents:
+    label: Skip to contents
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/terms-and-conditions/#:~:te\
+      xt=Skip%20to%20contents)"
+    context: {}
+  terms-and-conditions:
+    label: Terms and conditions
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://adjective-noun.cloudvent.net/terms-and-conditions/#:~:te\
+      xt=Terms%20and%20conditions)"
+    context: {}
 urlTranslation: terms-and-conditions/index.html
+eyebrow-heading: ""
+skip-to-contents: ""
+terms-and-conditions: ""
