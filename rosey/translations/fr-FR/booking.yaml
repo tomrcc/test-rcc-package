@@ -1,12 +1,16 @@
 _inputs:
   $:
     type: object
-    comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
+    comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
+      history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/tr\
+      anslations/fr-FR/booking.yaml)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (fr-FR)
-          comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
+          comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/booking.yaml)"
           inputs:
             - a-hero-for-a-booking-form-page
             - a-simple-text-block-for-your-faqs
@@ -23,7 +27,9 @@ _inputs:
             - skip-to-contents
             - tag-or-label-headline
         - heading: Already translated (fr-FR)
-          comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
+          comment: "[booking/](https://classy-sage.cloudvent.net/booking/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/booking.yaml)"
           inputs: []
   a-hero-for-a-booking-form-page:
     label: A hero for a booking form page
@@ -31,8 +37,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=A%20hero%2\
-      0for%20a%20booking%20form%20page)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=A%20hero%20fo\
+      r%20a%20booking%20form%20page)"
     context: {}
   a-simple-text-block-for-your-faqs:
     label: A simple text block for your FAQs
@@ -40,8 +46,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=A%20simple\
-      %20text%20block%20for%20your%20FAQs)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=A%20simple%20\
+      text%20block%20for%20your%20FAQs)"
     context: {}
   add-an-optional-button:
     label: Add an optional button
@@ -49,8 +55,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Add%20an%2\
-      0optional%20button)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Add%20an%20op\
+      tional%20button)"
     context: {}
   an-icon-card-grid:
     label: An icon card grid
@@ -58,8 +64,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=An%20icon%\
-      20card%20grid)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=An%20icon%20c\
+      ard%20grid)"
     context: {}
   another-optional-button:
     label: Another optional button!
@@ -67,8 +73,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Another%20\
-      optional%20button!)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Another%20opt\
+      ional%20button!)"
     context: {}
   bite-sized-information:
     label: Bite-sized information
@@ -76,8 +82,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Bite%2Dsiz\
-      ed%20information)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Bite%2Dsized%\
+      20information)"
     context: {}
   book-now:
     label: Book now
@@ -85,8 +91,7 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Book%20now\
-      )"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Book%20now)"
     context: {}
   booking-form:
     label: Booking form
@@ -94,8 +99,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Booking%20\
-      form)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Booking%20for\
+      m)"
     context: {}
   eyebrow-heading:
     label: Eyebrow Heading
@@ -103,8 +108,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Eyebrow%20\
-      Heading)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Eyebrow%20Hea\
+      ding)"
     context: {}
   heading:
     label: Heading
@@ -112,7 +117,7 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Heading)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Heading)"
     context: {}
   icon-card:
     label: icon card
@@ -120,8 +125,7 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=icon%20car\
-      d)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=icon%20card)"
     context: {}
   large-image-or-video-block:
     label: Large image or video block
@@ -129,8 +133,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Large%20im\
-      age%20or%20video%20block)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Large%20image\
+      %20or%20video%20block)"
     context: {}
   skip-to-contents:
     label: Skip to contents
@@ -138,8 +142,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=Skip%20to%\
-      20contents)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=Skip%20to%20c\
+      ontents)"
     context: {}
   tag-or-label-headline:
     label: tag or label headline
@@ -147,8 +151,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/booking/#:~:text=tag%20or%2\
-      0label%20headline)"
+      context](https://classy-sage.cloudvent.net/booking/#:~:text=tag%20or%20la\
+      bel%20headline)"
     context: {}
 urlTranslation: booking/index.html
 a-hero-for-a-booking-form-page: ""

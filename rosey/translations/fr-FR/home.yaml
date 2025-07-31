@@ -1,12 +1,16 @@
 _inputs:
   $:
     type: object
-    comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
+    comment: "[index.html](https://classy-sage.cloudvent.net/index.html)  //  [Git
+      history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/tr\
+      anslations/fr-FR/home.yaml)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (fr-FR)
-          comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
+          comment: "[index.html](https://classy-sage.cloudvent.net/index.html)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/home.yaml)"
           inputs:
             - a-component-to-showcase-your-brand
             - a-contact-block
@@ -26,7 +30,9 @@ _inputs:
             - tag-or-label-headline
             - what-your-customers-say
         - heading: Already translated (fr-FR)
-          comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
+          comment: "[index.html](https://classy-sage.cloudvent.net/index.html)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/home.yaml)"
           inputs: []
   a-component-to-showcase-your-brand:
     label: A component to showcase your brand
@@ -34,8 +40,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20comp\
-      onent%20to%20showcase%20your%20brand)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=A%20compone\
+      nt%20to%20showcase%20your%20brand)"
     context: {}
   a-contact-block:
     label: A contact block
@@ -43,8 +49,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20cont\
-      act%20block)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=A%20contact\
+      %20block)"
     context: {}
   a-featured-icons-block:
     label: A featured icons block
@@ -52,8 +58,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20feat\
-      ured%20icons%20block)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=A%20feature\
+      d%20icons%20block)"
     context: {}
   a-simple-gallery:
     label: a simple gallery
@@ -61,8 +67,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=a%20simp\
-      le%20gallery)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=a%20simple%\
+      20gallery)"
     context: {}
   a-small-business-template:
     label: A small business template
@@ -70,8 +76,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=A%20smal\
-      l%20business%20template)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=A%20small%2\
+      0business%20template)"
     context: {}
   and-ldquo-their-customer-service-is-second-to-none-and-rdquo:
     label: “Their customer service is second to none....
@@ -79,8 +85,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=%E2%80%9\
-      CTheir%20customer%20service%20is%20second%20to%20none.%E2%80%9D)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=%E2%80%9CTh\
+      eir%20customer%20service%20is%20second%20to%20none.%E2%80%9D)"
     context:
       open: false
       title: Untranslated Text
@@ -93,8 +99,7 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Book%20n\
-      ow)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=Book%20now)"
     context: {}
   empower-your-business-with-this-brilliant-template:
     label: Empower your business with this brilliant ...
@@ -102,8 +107,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Empower%\
-      20your%20business%20with%20this%20brilliant%20template)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=Empower%20y\
+      our%20business%20with%20this%20brilliant%20template)"
     context:
       open: false
       title: Untranslated Text
@@ -116,8 +121,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Eyebrow%\
-      20Heading)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=Eyebrow%20H\
+      eading)"
     context: {}
   image-gallery:
     label: Image Gallery
@@ -125,8 +130,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Image%20\
-      Gallery)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=Image%20Gal\
+      lery)"
     context: {}
   let-your-features-shine:
     label: let your features shine
@@ -134,8 +139,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=let%20yo\
-      ur%20features%20shine)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=let%20your%\
+      20features%20shine)"
     context: {}
   list-your-services-or-products:
     label: List your services or products
@@ -143,8 +148,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=List%20y\
-      our%20services%20or%20products)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=List%20your\
+      %20services%20or%20products)"
     context: {}
   load-more:
     label: Load more
@@ -152,8 +157,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Load%20m\
-      ore)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=Load%20more\
+      )"
     context: {}
   our-services:
     label: Our services
@@ -161,8 +166,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Our%20se\
-      rvices)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=Our%20servi\
+      ces)"
     context: {}
   skip-to-contents:
     label: Skip to contents
@@ -170,8 +175,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=Skip%20t\
-      o%20contents)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=Skip%20to%2\
+      0contents)"
     context: {}
   tag-or-label-headline:
     label: tag or label headline
@@ -179,8 +184,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=tag%20or\
-      %20label%20headline)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=tag%20or%20\
+      label%20headline)"
     context: {}
   what-your-customers-say:
     label: What your customers say
@@ -188,8 +193,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/index.html#:~:text=What%20y\
-      our%20customers%20say)"
+      context](https://classy-sage.cloudvent.net/index.html#:~:text=What%20your\
+      %20customers%20say)"
     context: {}
 urlTranslation: index.html
 a-component-to-showcase-your-brand: ""

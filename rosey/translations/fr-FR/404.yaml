@@ -5,22 +5,28 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See in context](https://adjective-noun.cloudvent.net/404/#:~:text=404)"
+    comment: "[See in context](https://classy-sage.cloudvent.net/404/#:~:text=404)"
     context: {}
   $:
     type: object
-    comment: "[404/](https://adjective-noun.cloudvent.net/404/)"
+    comment: "[404/](https://classy-sage.cloudvent.net/404/)  //  [Git
+      history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/tr\
+      anslations/fr-FR/404.yaml)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (fr-FR)
-          comment: "[404/](https://adjective-noun.cloudvent.net/404/)"
+          comment: "[404/](https://classy-sage.cloudvent.net/404/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/404.yaml)"
           inputs:
             - "404"
             - page-not-found
             - skip-to-contents
         - heading: Already translated (fr-FR)
-          comment: "[404/](https://adjective-noun.cloudvent.net/404/)"
+          comment: "[404/](https://classy-sage.cloudvent.net/404/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/404.yaml)"
           inputs: []
   page-not-found:
     label: Page Not Found
@@ -28,8 +34,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/404/#:~:text=Page%20Not%20F\
-      ound)"
+      context](https://classy-sage.cloudvent.net/404/#:~:text=Page%20Not%20Foun\
+      d)"
     context: {}
   skip-to-contents:
     label: Skip to contents
@@ -37,8 +43,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/404/#:~:text=Skip%20to%20co\
-      ntents)"
+      context](https://classy-sage.cloudvent.net/404/#:~:text=Skip%20to%20conte\
+      nts)"
     context: {}
 urlTranslation: 404/index.html
 page-not-found: ""

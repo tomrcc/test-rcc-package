@@ -1,12 +1,16 @@
 _inputs:
   $:
     type: object
-    comment: "[contact/](https://adjective-noun.cloudvent.net/contact/)"
+    comment: "[contact/](https://classy-sage.cloudvent.net/contact/)  //  [Git
+      history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/tr\
+      anslations/fr-FR/contact.yaml)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (fr-FR)
-          comment: "[contact/](https://adjective-noun.cloudvent.net/contact/)"
+          comment: "[contact/](https://classy-sage.cloudvent.net/contact/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/contact.yaml)"
           inputs:
             - a-contact-block
             - an-image-card-grid
@@ -17,7 +21,9 @@ _inputs:
             - skip-to-contents
             - submit
         - heading: Already translated (fr-FR)
-          comment: "[contact/](https://adjective-noun.cloudvent.net/contact/)"
+          comment: "[contact/](https://classy-sage.cloudvent.net/contact/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/contact.yaml)"
           inputs: []
   a-contact-block:
     label: A contact block
@@ -25,8 +31,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=A%20contac\
-      t%20block)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=A%20contact%2\
+      0block)"
     context: {}
   an-image-card-grid:
     label: An image card grid
@@ -34,8 +40,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=An%20image\
-      %20card%20grid)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=An%20image%20\
+      card%20grid)"
     context: {}
   bite-sized-information:
     label: Bite-sized information
@@ -43,8 +49,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Bite%2Dsiz\
-      ed%20information)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=Bite%2Dsized%\
+      20information)"
     context: {}
   contact-us:
     label: Contact us
@@ -52,8 +58,7 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Contact%20\
-      us)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=Contact%20us)"
     context: {}
   eyebrow-heading:
     label: Eyebrow Heading
@@ -61,8 +66,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Eyebrow%20\
-      Heading)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=Eyebrow%20Hea\
+      ding)"
     context: {}
   primary-heading:
     label: Primary Heading
@@ -70,8 +75,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Primary%20\
-      Heading)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=Primary%20Hea\
+      ding)"
     context: {}
   skip-to-contents:
     label: Skip to contents
@@ -79,8 +84,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Skip%20to%\
-      20contents)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=Skip%20to%20c\
+      ontents)"
     context: {}
   submit:
     label: Submit
@@ -88,7 +93,7 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/contact/#:~:text=Submit)"
+      context](https://classy-sage.cloudvent.net/contact/#:~:text=Submit)"
     context: {}
 urlTranslation: contact/index.html
 a-contact-block: ""

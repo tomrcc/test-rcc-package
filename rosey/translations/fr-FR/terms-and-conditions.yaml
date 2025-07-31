@@ -1,21 +1,27 @@
 _inputs:
   $:
     type: object
-    comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
-      d-conditions/)"
+    comment: "[terms-and-conditions/](https://classy-sage.cloudvent.net/terms-and-c\
+      onditions/)  //  [Git
+      history](https://github.com/tomrcc/test-rcc-package/commits/main/rosey/tr\
+      anslations/fr-FR/terms-and-conditions.yaml)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (fr-FR)
-          comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
-            d-conditions/)"
+          comment: "[terms-and-conditions/](https://classy-sage.cloudvent.net/terms-and-c\
+            onditions/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/terms-and-conditions.yaml)"
           inputs:
             - eyebrow-heading
             - skip-to-contents
             - terms-and-conditions
         - heading: Already translated (fr-FR)
-          comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
-            d-conditions/)"
+          comment: "[terms-and-conditions/](https://classy-sage.cloudvent.net/terms-and-c\
+            onditions/)  //  [Git
+            history](https://github.com/tomrcc/test-rcc-package/commits/main/ro\
+            sey/translations/fr-FR/terms-and-conditions.yaml)"
           inputs: []
   eyebrow-heading:
     label: Eyebrow Heading
@@ -23,8 +29,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/terms-and-conditions/#:~:te\
-      xt=Eyebrow%20Heading)"
+      context](https://classy-sage.cloudvent.net/terms-and-conditions/#:~:text=\
+      Eyebrow%20Heading)"
     context: {}
   skip-to-contents:
     label: Skip to contents
@@ -32,8 +38,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/terms-and-conditions/#:~:te\
-      xt=Skip%20to%20contents)"
+      context](https://classy-sage.cloudvent.net/terms-and-conditions/#:~:text=\
+      Skip%20to%20contents)"
     context: {}
   terms-and-conditions:
     label: Terms and conditions
@@ -41,8 +47,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See in
-      context](https://adjective-noun.cloudvent.net/terms-and-conditions/#:~:te\
-      xt=Terms%20and%20conditions)"
+      context](https://classy-sage.cloudvent.net/terms-and-conditions/#:~:text=\
+      Terms%20and%20conditions)"
     context: {}
 urlTranslation: terms-and-conditions/index.html
 eyebrow-heading: ""
