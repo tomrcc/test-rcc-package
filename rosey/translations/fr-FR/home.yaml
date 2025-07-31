@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[index.html](https://adjective-noun.cloudvent.net/index.html)"
+          inputs: []
+urlTranslation: index.html

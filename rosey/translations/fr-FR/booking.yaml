@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[booking/](https://adjective-noun.cloudvent.net/booking/)"
+          inputs: []
+urlTranslation: booking/index.html

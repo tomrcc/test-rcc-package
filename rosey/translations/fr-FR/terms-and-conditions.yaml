@@ -1,0 +1,17 @@
+_inputs:
+  $:
+    type: object
+    comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
+      d-conditions/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (fr-FR)
+          comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
+            d-conditions/)"
+          inputs: []
+        - heading: Already translated (fr-FR)
+          comment: "[terms-and-conditions/](https://adjective-noun.cloudvent.net/terms-an\
+            d-conditions/)"
+          inputs: []
+urlTranslation: terms-and-conditions/index.html
