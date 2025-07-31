@@ -5,11 +5,11 @@ input_lengths:
   textarea: 20
 see_on_page_comment:
   enabled: true
-  base_url: https://adjective-noun.cloudvent.net/
+  base_url: https://classy-sage.cloudvent.net/
   comment_text: See in context
 git_history_link:
-  enabled: false
-  repo_url: https://github.com/org/repo
+  enabled: true
+  repo_url: https://github.com/tomrcc/test-rcc-package
   branch_name: main
   comment_text: Git history
 namespace_pages:
