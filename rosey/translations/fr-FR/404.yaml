@@ -1,4 +1,5 @@
-"404": ""
+"404": |
+  404
 _inputs:
   "404":
     label: "404"
@@ -47,5 +48,7 @@ _inputs:
       nts)"
     context: {}
 urlTranslation: 404/index.html
-page-not-found: ""
-skip-to-contents: ""
+page-not-found: |
+  Page introuvable
+skip-to-contents: |
+  Passer au contenu

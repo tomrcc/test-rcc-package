@@ -197,20 +197,36 @@ _inputs:
       %20customers%20say)"
     context: {}
 urlTranslation: index.html
-a-component-to-showcase-your-brand: ""
-a-contact-block: ""
-a-featured-icons-block: ""
-a-simple-gallery: ""
-a-small-business-template: ""
-and-ldquo-their-customer-service-is-second-to-none-and-rdquo: ""
-book-now: ""
+a-component-to-showcase-your-brand: |
+  Un élément pour mettre en valeur votre marque
+a-contact-block: |
+  Un bloc de contact
+a-featured-icons-block: |
+  Un bloc d'icônes en vedette
+a-simple-gallery: |
+  une galerie simple
+a-small-business-template: |
+  Modèle pour petite entreprise
+and-ldquo-their-customer-service-is-second-to-none-and-rdquo: |
+  « Leur service client est incomparable. »
+book-now: |
+  Réservez dès maintenant
 empower-your-business-with-this-brilliant-template: Testing this works homepage BONJOUR
-eyebrow-heading: ""
-image-gallery: ""
-let-your-features-shine: ""
-list-your-services-or-products: ""
-load-more: ""
-our-services: ""
-skip-to-contents: ""
-tag-or-label-headline: ""
-what-your-customers-say: ""
+eyebrow-heading: |
+  En-tête des sourcils
+image-gallery: |
+  Galerie d'images
+let-your-features-shine: |
+  mettez vos traits en valeur
+list-your-services-or-products: |
+  Répertoriez vos services ou vos produits
+load-more: |
+  En savoir plus
+our-services: |
+  Nos services
+skip-to-contents: |
+  Passer au contenu
+tag-or-label-headline: |
+  balise ou étiquette titre
+what-your-customers-say: |
+  Ce que disent vos clients

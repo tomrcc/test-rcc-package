@@ -1,19 +1,19 @@
 {
 	"404": {
 		"original": "404",
-		"value": "404"
+		"value": "404\n"
 	},
 	"a-component-to-showcase-your-brand": {
 		"original": "A component to showcase your brand",
-		"value": "A component to showcase your brand"
+		"value": "Un élément pour mettre en valeur votre marque\n"
 	},
 	"a-contact-block": {
 		"original": "A contact block",
-		"value": "A contact block"
+		"value": "Un bloc de contact\n"
 	},
 	"a-featured-icons-block": {
 		"original": "A featured icons block",
-		"value": "A featured icons block"
+		"value": "Un bloc d'icônes en vedette\n"
 	},
 	"a-hero-for-a-booking-form-page": {
 		"original": "A hero for a booking form page",
@@ -21,51 +21,51 @@
 	},
 	"a-simple-gallery": {
 		"original": "a simple gallery",
-		"value": "a simple gallery"
+		"value": "une galerie simple\n"
 	},
 	"a-simple-text-block-for-your-faqs": {
 		"original": "A simple text block for your FAQs",
-		"value": "A simple text block for your FAQs"
+		"value": "Un bloc de texte simple pour vos FAQ\n"
 	},
 	"a-small-business-template": {
 		"original": "A small business template",
-		"value": "A small business template"
+		"value": "Modèle pour petite entreprise\n"
 	},
 	"add-an-optional-button": {
 		"original": "Add an optional button",
-		"value": "Add an optional button"
+		"value": "Ajouter un bouton facultatif\n"
 	},
 	"an-icon-card-grid": {
 		"original": "An icon card grid",
-		"value": "An icon card grid"
+		"value": "Une grille de cartes icônes\n"
 	},
 	"an-image-card-grid": {
 		"original": "An image card grid",
-		"value": "An image card grid"
+		"value": "Une grille de cartes illustrées\n"
 	},
 	"and-ldquo-their-customer-service-is-second-to-none-and-rdquo": {
 		"original": "“Their customer service is second to none.”",
-		"value": "“Their customer service is second to none.”"
+		"value": "« Leur service client est incomparable. »\n"
 	},
 	"another-optional-button": {
 		"original": "Another optional button!",
-		"value": "Another optional button!"
+		"value": "Un autre bouton optionnel !\n"
 	},
 	"bite-sized-information": {
 		"original": "Bite-sized information",
-		"value": "Bite-sized information"
+		"value": "Informations concises\n"
 	},
 	"book-now": {
 		"original": "Book now",
-		"value": "Book now"
+		"value": "Réservez dès maintenant\n"
 	},
 	"booking-form": {
 		"original": "Booking form",
-		"value": "Booking form"
+		"value": "Formulaire de réservation\n"
 	},
 	"contact-us": {
 		"original": "Contact us",
-		"value": "Contact us"
+		"value": "Contactez-nous\n"
 	},
 	"empower-your-business-with-this-brilliant-template": {
 		"original": "Empower your business with this brilliant template",
@@ -73,66 +73,66 @@
 	},
 	"eyebrow-heading": {
 		"original": "Eyebrow Heading",
-		"value": "Eyebrow Heading"
+		"value": "En-tête des sourcils\n"
 	},
 	"heading": {
 		"original": "Heading",
-		"value": "Heading"
+		"value": "En-tête\n"
 	},
 	"icon-card": {
 		"original": "icon card",
-		"value": "icon card"
+		"value": "carte icône\n"
 	},
 	"image-gallery": {
 		"original": "Image Gallery",
-		"value": "Image Gallery"
+		"value": "Galerie d'images\n"
 	},
 	"large-image-or-video-block": {
 		"original": "Large image or video block",
-		"value": "Large image or video block"
+		"value": "Bloc image ou vidéo grand format\n"
 	},
 	"let-your-features-shine": {
 		"original": "let your features shine",
-		"value": "let your features shine"
+		"value": "mettez vos traits en valeur\n"
 	},
 	"list-your-services-or-products": {
 		"original": "List your services or products",
-		"value": "List your services or products"
+		"value": "Répertoriez vos services ou vos produits\n"
 	},
 	"load-more": {
 		"original": "Load more",
-		"value": "Load more"
+		"value": "En savoir plus\n"
 	},
 	"our-services": {
 		"original": "Our services",
-		"value": "Our services"
+		"value": "Nos services\n"
 	},
 	"page-not-found": {
 		"original": "Page Not Found",
-		"value": "Page Not Found"
+		"value": "Page introuvable\n"
 	},
 	"primary-heading": {
 		"original": "Primary Heading",
-		"value": "Primary Heading"
+		"value": "Titre principal\n"
 	},
 	"skip-to-contents": {
 		"original": "Skip to contents",
-		"value": "Skip to contents"
+		"value": "Passer au contenu\n"
 	},
 	"submit": {
 		"original": "Submit",
-		"value": "Submit"
+		"value": "Soumettre\n"
 	},
 	"tag-or-label-headline": {
 		"original": "tag or label headline",
-		"value": "tag or label headline"
+		"value": "balise ou étiquette titre\n"
 	},
 	"terms-and-conditions": {
 		"original": "Terms and conditions",
-		"value": "Terms and conditions"
+		"value": "Conditions générales\n"
 	},
 	"what-your-customers-say": {
 		"original": "What your customers say",
-		"value": "What your customers say"
+		"value": "Ce que disent vos clients\n"
 	}
 }

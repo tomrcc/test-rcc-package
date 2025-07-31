@@ -96,11 +96,19 @@ _inputs:
       context](https://classy-sage.cloudvent.net/contact/#:~:text=Submit)"
     context: {}
 urlTranslation: contact/index.html
-a-contact-block: ""
-an-image-card-grid: ""
-bite-sized-information: ""
-contact-us: ""
-eyebrow-heading: ""
-primary-heading: ""
-skip-to-contents: ""
-submit: ""
+a-contact-block: |
+  Un bloc de contact
+an-image-card-grid: |
+  Une grille de cartes illustrées
+bite-sized-information: |
+  Informations concises
+contact-us: |
+  Contactez-nous
+eyebrow-heading: |
+  En-tête des sourcils
+primary-heading: |
+  Titre principal
+skip-to-contents: |
+  Passer au contenu
+submit: |
+  Soumettre

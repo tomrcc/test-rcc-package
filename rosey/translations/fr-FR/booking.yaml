@@ -156,16 +156,29 @@ _inputs:
     context: {}
 urlTranslation: booking/index.html
 a-hero-for-a-booking-form-page: Test this works BONJOUR
-a-simple-text-block-for-your-faqs: ""
-add-an-optional-button: ""
-an-icon-card-grid: ""
-another-optional-button: ""
-bite-sized-information: ""
-book-now: ""
-booking-form: ""
-eyebrow-heading: ""
-heading: ""
-icon-card: ""
-large-image-or-video-block: ""
-skip-to-contents: ""
-tag-or-label-headline: ""
+a-simple-text-block-for-your-faqs: |
+  Un bloc de texte simple pour vos FAQ
+add-an-optional-button: |
+  Ajouter un bouton facultatif
+an-icon-card-grid: |
+  Une grille de cartes icônes
+another-optional-button: |
+  Un autre bouton optionnel !
+bite-sized-information: |
+  Informations concises
+book-now: |
+  Réservez dès maintenant
+booking-form: |
+  Formulaire de réservation
+eyebrow-heading: |
+  En-tête des sourcils
+heading: |
+  En-tête
+icon-card: |
+  carte icône
+large-image-or-video-block: |
+  Bloc image ou vidéo grand format
+skip-to-contents: |
+  Passer au contenu
+tag-or-label-headline: |
+  balise ou étiquette titre

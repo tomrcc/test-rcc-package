@@ -51,6 +51,9 @@ _inputs:
       Terms%20and%20conditions)"
     context: {}
 urlTranslation: terms-and-conditions/index.html
-eyebrow-heading: ""
-skip-to-contents: ""
-terms-and-conditions: ""
+eyebrow-heading: |
+  En-tête des sourcils
+skip-to-contents: |
+  Passer au contenu
+terms-and-conditions: |
+  Conditions générales
